@@ -19,7 +19,7 @@
 - 💻Technologies: I am curious about a variety of technologies to learn, focusing on `FastAPI`, `Flutter`, `Flask`, `Figma`, `PostgreSQL` and `NoCode` tools like Bubble and FlutterFlow. I'm excited to continue learning and keeping up to date with the latest trends in software development.
 
 - 🪧Programming Challenges: To keep my skills sharp, I participate in programming challenges on websites like `MoureDev`, `Exercism` and `HackerRank`.
-
+- I'm learning Dart and Python with [Exercism.io](https://exercism.org/profiles/evepy)
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.google.com).
 - :boom: You can visit [MY WEBSITE](https://www.google.com).
 
