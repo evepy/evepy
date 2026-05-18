@@ -8,8 +8,6 @@
 <img src="https://pixeldolls.net/images/dolls/1/magician-girl-doll253_7_14_2007.gif" width=4%>  
 ####  Connect with me
 
-  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/ebarrantes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-jbarrantes-r/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@devepy?lang=es) 
 
 #  About Me 
 </div>
